@@ -1,0 +1,6 @@
+flask
+pillow
+flask_caching
+requests
+moviepy
+numpy
