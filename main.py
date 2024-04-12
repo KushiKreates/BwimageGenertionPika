@@ -574,4 +574,4 @@ def generate_level_image(level, messages, guild_name):
 
  
 if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=35819)
+    app.run(debug=True)
