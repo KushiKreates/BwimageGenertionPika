@@ -1,0 +1,1 @@
+console.log("Welcome to Your cloud space!, To start developing, Edit the package.json file what you need. Remember Only the index.js file is processed By us! If you need help visit our Discord, \n 🎉 Node.js version 22")
