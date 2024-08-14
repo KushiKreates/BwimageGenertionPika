@@ -1,11 +1,13 @@
 {
   "eggs": [
     {
+      "id": "egg1",
       "imageUrl": "https://th.bing.com/th/id/OIP.CaNpHeikFVmwJRxF764snAHaHa?rs=1&pid=ImgDetMain",
       "heading": "Nginx (Web hosting)",
-      "description": "Powerful web hosting at your finger tips"
+      "description": "Powerful web hosting at your fingertips"
     },
     {
+      "id": "egg2",
       "imageUrl": "https://example.com/image2.png",
       "heading": "Egg 2",
       "description": "Description for Egg 2"
