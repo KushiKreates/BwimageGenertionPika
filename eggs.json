@@ -1,16 +1,28 @@
 {
   "eggs": [
     {
-      "id": "egg1",
+      "id": "24",
       "imageUrl": "https://th.bing.com/th/id/OIP.CaNpHeikFVmwJRxF764snAHaHa?rs=1&pid=ImgDetMain",
       "heading": "Nginx (Web hosting)",
       "description": "Powerful web hosting at your fingertips"
     },
     {
-      "id": "egg2",
-      "imageUrl": "https://example.com/image2.png",
-      "heading": "Egg 2",
-      "description": "Description for Egg 2"
+      "id": "25",
+      "imageUrl": "https://example.com/vps-image.png",
+      "heading": "VPS (Virtual Private Server)",
+      "description": "Flexible and scalable virtual server for various applications"
+    },
+    {
+      "id": "27",
+      "imageUrl": "https://example.com/paper-minecraft-image.png",
+      "heading": "Paper Minecraft",
+      "description": "Optimized Minecraft server for high performance and stability"
+    },
+    {
+      "id": "28",
+      "imageUrl": "https://example.com/forge-image.png",
+      "heading": "Forge (Minecraft Modding)",
+      "description": "Modding platform for Minecraft to enhance gameplay with custom mods"
     }
   ]
 }
